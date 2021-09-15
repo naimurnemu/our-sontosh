@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Glory&display=swap');
+
+/* utilites */
+body{
+    font-family: 'Glory', sans-serif;
+}
+.custom-link{
+    color: #2f6afd ;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+.custom-bg{
+    background-color: #e6bbff95;
+}
+.person-bg{
+    background-color: #cde7aabd;
+}
+.bg-about{
+    background-color: #4b545c;
+    box-shadow: 20px 30px 20px #767e7a ;
+    border-radius: 10px;
+}
+
+/* .about-title{
+    background-color: rgb(226, 226, 139);
+} */
+.custom-shadow{
+    box-shadow: 5px 10px 20px #433f50;
+}
